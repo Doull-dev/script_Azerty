@@ -1,0 +1,3 @@
+lancerJeu()
+
+initAddEventListenerPopup()
